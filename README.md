@@ -6,9 +6,8 @@
 </div>
 
 - contains lots of piracy programs
-- we do support cracking
-- not ratted (if i found out you release it with a rat i will take down your video.)
+- we do support piracy
+- not ratted (if i found out you release it with a rat i will kidnap you)
 - better than any other program
-- made at school
 
 so you should check it out!
