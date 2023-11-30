@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/wrzxw/piracy11/assets/116313580/37a50740-3106-4a34-abac-3590add09d3e" alt="image">
   <br>
   <h1>Piracy11</h1>
   <h3>Maintained by the one and only, Qrexxed</h3>
